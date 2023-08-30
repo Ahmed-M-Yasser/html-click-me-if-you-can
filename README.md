@@ -4,4 +4,4 @@
 - It starts getting more interesting after level 2.
 - Code Pen https://codepen.io/Ahmed-M-Yasser/pen/ExGKpZe
 
-*This game was developed at 28-12-2015*
+*Finished on 28-12-2015*
